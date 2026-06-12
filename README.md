@@ -82,7 +82,7 @@ nlp-logbook-vinix7/
 
 ### 1. Buka di Google Colab
 Klik badge di bawah atau buka file `nlp_logbook_vinix7.ipynb` langsung di Colab:
-[![Open In Colab]([/colab.research.google.com/github/*(username)*/nlp-logbook-vinix7/blob/main/nlp_logbook_vinix7.ipynb](https://colab.research.google.com/drive/1CG61WNFhu5qAOEiX_8iOWj0EOQV3g3lK?usp=sharing))
+[[![Open In Colab]([/colab.research.google.com/github/*(username)*/nlp-logbook-vinix7/blob/main/nlp_logbook_vinix7.ipynb](https://colab.research.google.com/drive/1CG61WNFhu5qAOEiX_8iOWj0EOQV3g3lK?usp=sharing))](https://colab.research.google.com/drive/1CG61WNFhu5qAOEiX_8iOWj0EOQV3g3lK?usp=sharing)
 
 ### 2. Jalankan sel secara berurutan
 ```
